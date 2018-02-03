@@ -1,6 +1,5 @@
 
-
-function requestText(){
-  var text = document.getElementById('exampleTextarea')
-  window.alert(text)
+function parseText(text){
+  sepWords = text.split(" ");
+  return sepWords
 }
