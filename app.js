@@ -1,6 +1,6 @@
 
 
 function requestText(){
-  var text = document.getElementsByTagName('textarea')
+  var text = document.getElementById('exampleTextarea')
   window.alert(text)
 }
