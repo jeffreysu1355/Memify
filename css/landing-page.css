@@ -11,7 +11,11 @@ h6 {
   font-family: 'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-weight: 700;
 }
-
+# inner{
+  text-align: center;
+  vertical-align: middle;
+  
+}
 header.masthead {
   position: relative;
   background-color: #343a40;
